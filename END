@@ -1,0 +1,32 @@
+[33mcommit e6ddc8b390fe2b218b558d1b07e8db851cb5ea2c[m
+Author: Carlos Jiménez <cjimenez@melollevo.com>
+Date:   Sat May 6 11:20:24 2017 -0500
+
+    Adds respond for hola mundo with JSON
+
+[33mcommit e64b3a38d2f67725d3ccde381e2c9d69347601c1[m
+Merge: 772a401 af17a73
+Author: Carlos Jiménez <cojimene@gmail.com>
+Date:   Sat May 6 10:19:03 2017 -0500
+
+    Merge pull request #2 from pipelopez/init_ci
+    
+    adds godep and adds an empty test file
+
+[33mcommit af17a732e60b7c40222f1051aee0ed6690307fe4[m
+Author: Carlos Jiménez <cjimenez@melollevo.com>
+Date:   Sat May 6 10:15:20 2017 -0500
+
+    adds godep and adds an empty test file
+
+[33mcommit 772a401a2f46524a78a70324a4c17b3153b7bcf6[m
+Author: Carlos Jiménez <cjimenez@melollevo.com>
+Date:   Fri May 5 22:37:59 2017 -0500
+
+    Starts application with a hello world
+
+[33mcommit 7a8cc2427200c15fdab42735b5046bbcd9bc1eef[m
+Author: Felipe López <estefelipe89@gmail.com>
+Date:   Fri May 5 21:38:32 2017 -0500
+
+    Create README.md
